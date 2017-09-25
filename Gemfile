@@ -14,8 +14,8 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
-gem 'boostrap-sass', '~> 0.0.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'nested_form_fields'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
